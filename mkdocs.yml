@@ -44,10 +44,10 @@ extra:
     provider: google
     property: G-F8VRX8RG09
     feedback:
-      title: 此页面对您有帮助嘛？
+      title: 此页面可读性如何？
       ratings:
         - icon: material/emoticon-happy-outline
-          name: 这个页面很有帮助~
+          name: 这个页面阅读很流畅，很明白~
           data: 1
           note: >-
             感谢您的反馈喵！
@@ -67,8 +67,8 @@ extra:
       - reject
 
 copyright: >
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank">
-    <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" loading="lazy" alt="CC BY-NC-SA 4.0" />
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans" target="_blank">
+    <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" loading="lazy" alt="CC BY-SA 4.0" />
   </a>
   © 2024-2025 ATCG Studio - 
   <a href="#__consent">更改 cookie 设置</a>
