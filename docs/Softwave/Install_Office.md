@@ -35,7 +35,7 @@ Office包含以下套件:
 您可以选择阅读Office Tool Plus官方的新手入门教程(里面有傻瓜式一键部署命令)[[新手必读] Office Tool Plus 入门教程 - Yerong の小窝 (coolhub.top)](https://www.coolhub.top/archives/42)也可以阅读我们提供的使用教程。
 ### 系统要求
 
-在Windows下安装Office需要确保您不是古老的 **Windows XP** 以及 **更低** 版本的系统，对于 **Windows7/8/8.1** 等系统，我们建议您升级到Windows 10系统，这些版本的Windows无法使用**Office 2019/2021** 以及更高的版本(Office 365除外)。
+在Windows下安装Office需要确保您不是古老的 **Windows XP** 以及 **更低** 版本的系统，对于 **Windows7/8/8.1** 等系统，我们建议您升级到Windows 10系统，这些版本的Windows无法使用 **Office 2019/2021** 以及更高的版本(Office 365除外)。
 
 !!! Info "注意"
 	Office默认安装在C盘且不可更改，请确保您的C盘有足够的空间
