@@ -3,7 +3,7 @@
 
 欢迎来到Hello_IT Wiki
 
-文档由Mkdocs-material强力驱动 基于GitHub Pages 依靠 gh-pages 部署在 自豪地使用Cloudflare CDN进行全球CDN加速
+文档由Mkdocs-material强力驱动 基于GitHub Pages 依靠 gh-pages 部署在 [https://hello-it.zhicheng233.top/](https://hello-it.zhicheng233.top/) 自豪地使用Cloudflare CDN进行全球CDN加速
 
 您可以直接访问该页面进行[在线阅读](https://hello-it.zhicheng233.top/)，如果您想要转载本项目，请带上项目源地址：
 
