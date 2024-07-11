@@ -20,8 +20,8 @@
 该项目目前仍在起步阶段，当前项目主要贡献者均为高中学生，受于学业所限，我们很难保持高频率的更新以及确保其内容的时效性，同时有些领域并不是我们擅长的，还有许多地方需要完善。欢迎您加入我们，让更多人能因该项目受益，让中文互联网变得更好。您可以随时提交[「 PR (Pull Request) 」](https://github.com/ATCG-Studio/Hello-IT_Wiki/pulls)来帮助我们完成该项目。
 - 如果您在阅读的过程中发现任何**内容模糊、知识点错误、时效性问题(失效)或者名词、术语拼写错误**等问题，还请您帮助我们修改，您可以直接在下方评论区留言，或者直接提交PR，也可以开启Issue或者通过邮箱跟我们反馈。
 - 如果可以请在每篇文章的下方可读性反馈按钮进行可读性反馈，这将帮助我们了解哪些文章需要优化或者重写。
-- 对于非开发者，如果您之前并没有接触过Git以及Github，不知道或不熟悉该如何提交PR来贡献该项目，可以通过这篇文章快速入门:[如何提交PR?]("https://hello-it.zhicheng233.top/Contribute-doc/How-to-PR/")
-- 如果您想贡献项目，请先仔细阅读[这篇文章]("https://hello-it.zhicheng233.top/Contribute-doc/README.md")来了解一些规范约定。
+- 对于非开发者，如果您之前并没有接触过Git以及Github，不知道或不熟悉该如何提交PR来贡献该项目，可以通过这篇文章快速入门:[如何提交PR?](https://hello-it.zhicheng233.top/Contribute-doc/How-to-PR/)
+- 如果您想贡献项目，请先仔细阅读[这篇文章](https://hello-it.zhicheng233.top/Contribute-doc/README.md)来了解一些规范约定。
 - 如果您有合作的意向，也欢迎联系志成 By QQ **2473367376** OR By Telegram **@zhi_cheng**   或者开启Issue。
 
 ## 版权声明
