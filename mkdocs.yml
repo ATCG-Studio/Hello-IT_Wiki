@@ -159,6 +159,8 @@ nav:
       - Web_surfing/index.md
     - GFW:
       - GFW/index.md
+      - 什么是GFW?: GFW/what-is-gfw(block-cn).md
+      - 如何翻墙?: GFW/How-to-bypass-gfw(block-cn).md
     - 软件:
       - Softwave/index.md
       - 安装Office: Softwave/Install_Office.md
