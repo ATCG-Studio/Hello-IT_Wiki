@@ -11,6 +11,8 @@ plugins:
   - git-committers:
       repository: ATCG-Studio/Hello-IT_Wik
       branch: main
+      enabled: true
+  - search
 
 #主题
 theme:
